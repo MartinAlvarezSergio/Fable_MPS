@@ -1,8 +1,18 @@
 # Matter Power Spectra Release for Fable MPS Study:
 **Stirring the cosmic pot: how black hole feedback shapes the matter power spectrum in the \textsc{fable} simulations**
+Hyperlink to manuscript studying the MPS in Fable: to be included
+Hyperlink to ADS entry: to be included
 
 **Authors:**
 Sergio Martin-Alvarez, Vid Iršič, Sophie Koudmani, Martin Bourne, Leah Bigwood, and Debora Sijacki
+
+### Fable simulation:
+The Fable simulations are cosmological hydrodynamical simulations using the AREPO code, incorporating updated AGN and supernova feedback models. They accurately reproduce galaxy formation and cluster properties, aligning well with observed scaling relations.
+
+Fable was originally created and presented by Nicholas A. Henden, in:
+Henden N. A., Puchwein E., Shen S., Sĳacki D., 2018, MNRAS, 479, 5385
+Hyperlink to published journal article presenting Fable: https://academic.oup.com/mnras/article/479/4/5385/5051752
+ADS entry: https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5385H/abstract 
 
 ### Contact:
 For any questions or issues, please contact Sergio Martin-Alvarez at:
